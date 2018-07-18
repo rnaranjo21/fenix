@@ -1,0 +1,11 @@
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\FENIX_KIOSCO_NEW\FENIX_KIOSCO_NEW\bin\x64\Debug\FENIX_KIOSCO.exe.config
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\FENIX_KIOSCO_NEW\FENIX_KIOSCO_NEW\obj\x64\Debug\FENIX_KIOSCO.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\FENIX_KIOSCO_NEW\FENIX_KIOSCO_NEW\obj\x64\Debug\FENIX_KIOSCO.Frm_Principal.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\FENIX_KIOSCO_NEW\FENIX_KIOSCO_NEW\obj\x64\Debug\FENIX_KIOSCO.MyMessageBox.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\FENIX_KIOSCO_NEW\FENIX_KIOSCO_NEW\obj\x64\Debug\FENIX_KIOSCO.Properties.Resources.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\FENIX_KIOSCO_NEW\FENIX_KIOSCO_NEW\obj\x64\Debug\FENIX_KIOSCO.SplashScreen.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\FENIX_KIOSCO_NEW\FENIX_KIOSCO_NEW\obj\x64\Debug\FENIX_KIOSCO.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\FENIX_KIOSCO_NEW\FENIX_KIOSCO_NEW\obj\x64\Debug\FENIX_KIOSCO.TrustInfo.xml
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\FENIX_KIOSCO_NEW\FENIX_KIOSCO_NEW\obj\x64\Debug\FENIX_KIOSCO.exe.manifest
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\FENIX_KIOSCO_NEW\FENIX_KIOSCO_NEW\obj\x64\Debug\FENIX_KIOSCO.exe
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\FENIX_KIOSCO_NEW\FENIX_KIOSCO_NEW\obj\x64\Debug\FENIX_KIOSCO.pdb

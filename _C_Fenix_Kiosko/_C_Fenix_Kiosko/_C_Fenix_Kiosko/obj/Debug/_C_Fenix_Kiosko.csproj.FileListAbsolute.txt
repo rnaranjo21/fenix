@@ -1,0 +1,671 @@
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Mono.Security.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.pdb
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\ResolveAssemblyReference.cache
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Mono.Security.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.pdb
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\ResolveAssemblyReference.cache
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\_C_Fenix_Kiosko--OK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Mono.Security.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Fenix_Kiosko.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\SigPlusNET.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanW.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NetScanWex.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.Gui.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Devices.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Biometrics.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Media.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Licensing.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Neurotec.Gui.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\itextsharp.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.csprojResolveAssemblyReference.cache
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\obj\Debug\_C_Fenix_Kiosko.pdb

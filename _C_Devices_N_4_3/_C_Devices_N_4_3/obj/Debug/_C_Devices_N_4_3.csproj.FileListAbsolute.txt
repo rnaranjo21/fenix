@@ -1,0 +1,195 @@
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Neurotec.SmartCards.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Mono.Security.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.pdb
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Fenix30\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\Fenix30\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\Fenix30\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Fenix30\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\Fenix30\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Fenix 3.2.0.1KFuncional\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Fenix 3.2.0.1KFuncional\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Fenix 3.2.0.1KFuncional\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Fenix30\Fenix 3.2.0.1KFuncional\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\Fenix30\Fenix 3.2.0.1KFuncional\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\Fenix30\Fenix 3.2.0.1KFuncional\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Fenix30\Fenix 3.2.0.1KFuncional\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\Fenix30\Fenix 3.2.0.1KFuncional\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Fenix 3.2.0.1KFuncional\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Fenix 3.2.0.1M-Splashscreen\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Fenix 3.2.0.1M-Splashscreen\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Fenix 3.2.0.1M-Splashscreen\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Fenix30\Fenix 3.2.0.1M-Splashscreen\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\Fenix30\Fenix 3.2.0.1M-Splashscreen\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\Fenix30\Fenix 3.2.0.1M-Splashscreen\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Fenix30\Fenix 3.2.0.1M-Splashscreen\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\Fenix30\Fenix 3.2.0.1M-Splashscreen\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Fenix 3.2.0.1M-Splashscreen\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Fenix 3.3.0.1a\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.1a\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Fenix 3.3.0.1a\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.1a\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.1a\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.1a\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Fenix30\Fenix 3.3.0.1a\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\Fenix30\Fenix 3.3.0.1a\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.1a\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Fenix 3.3.0.1b\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.1b\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Fenix 3.3.0.1b\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.1b\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.1b\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.1b\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Fenix30\Fenix 3.3.0.1b\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\Fenix30\Fenix 3.3.0.1b\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.1b\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Fenix 3.3.0.2\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.2\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Fenix 3.3.0.2\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.2\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.2\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.2\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Fenix30\Fenix 3.3.0.2\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\Fenix30\Fenix 3.3.0.2\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.2\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Fenix30\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\Fenix30\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll.config
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3 - Funcional FS88\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll.config
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3 - Funcional FS88\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3 - Funcional FS88\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3 - Funcional FS88\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3 - Funcional FS88\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3 - Funcional FS88\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3 - Funcional FS88\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3 - Funcional FS88\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3 - Funcional FS88\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3 - Funcional FS88\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3 - Funcional FS88\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Fenix30\Nuevo SDK\Fenix 3.3.0.3 - Funcional FS88\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll.config
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll.config
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll.config
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll.config
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll.config
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll.config
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll.config
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll.config
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_Devices_N_4_3.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\Ionic.Zip.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\itextsharp.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Debug\_C_Devices_N_4_3.pdb

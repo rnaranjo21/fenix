@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="logcapInv2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logcapInv2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lateral13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Lateral1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boton_Minusválido" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Boton_Minusválido.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lateral22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Lateral2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Encabezado4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Encabezado4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B4_UP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B4_UP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B8_P" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B8_P.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B7_UP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B7_UP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logcapInv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logcapInv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lateral1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Lateral1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lateral12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Lateral1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="unnamed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unnamed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B7_P" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B7_P.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B2_UP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B2_UP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B7_UP1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\B7_UP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Captura_de_pantalla_2013_08_23_a_la_s__9_091" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Captura_de_pantalla_2013_08_23_a_la_s__9_091.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Encabezado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Encabezado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurnoPreferencial1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1TurnoPreferencial.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo_caja_honor_fondo_transparente" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo_caja_honor_fondo_transparente.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B9_UP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B9_UP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logcapInv1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logcapInv1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_AdicUP_Discap1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B_AdicUP_Discap1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B6_P" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B6_P.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_CancelarUP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B_CancelarUP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boton_terminar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Boton_terminar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Encabezado5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Encabezado5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurnoPreferencial" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TurnoPreferencial.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B1_UP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B1_UP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Encabezado6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Encabezado6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_FinalizarP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B_FinalizarP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B0_P" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B0_P.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_CancelarP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B_CancelarP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_AceptarP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B_AceptarP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_RegresarP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B_RegresarP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_Menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B_Menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logcap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logcap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Encabezado1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Encabezado1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_AdicP_Discap1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B_AdicP_Discap1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CasaCH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CasaCH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Encabezados" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Encabezados.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B3_UP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B3_UP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_FinalizarUP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B_FinalizarUP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lateral2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Lateral2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fondo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Fondo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B3_P" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B3_P.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B5_P" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B5_P.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B2_P" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B2_P.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_RegresarUP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B_RegresarUP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_1f3FondoAzul" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_1f3FondoAzul.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1f3FondoAzul" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1f3FondoAzul.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B0_UP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B0_UP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lateral11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Lateral1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Botones" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Botones.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_1logo_fenix_azul_263x901" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_1logo_fenix_azul 263x901.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logoCaja" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\logoCaja.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Encabezado3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Encabezado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B6_UP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B6_UP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B8_UP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B8_UP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Encabezado2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Encabezado2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_Encabezado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B_Menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Boton_Regresar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Boton_Regresar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_AceptarUP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B_AceptarUP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Encabezado31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Encabezado3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_1f3FondoAzul1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_1f3FondoAzul.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_4f3FondoAzul1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\_4f3FondoAzul1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B1_P" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B1_P.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B9_P" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B9_P.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B5_UP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B5_UP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logcpvmp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logcpvmp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B4_P" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\B4_P.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Encabezado7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDesign\Encabezado7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

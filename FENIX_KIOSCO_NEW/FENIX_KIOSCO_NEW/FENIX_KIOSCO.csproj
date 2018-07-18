@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E8FB2A55-5D79-4DC8-943C-D943D0030E08}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FENIX_KIOSCO</RootNamespace>
+    <AssemblyName>FENIX_KIOSCO</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\SubVersion\kiosco\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>3.0.0.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>FNXIcono128.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0326098D35EC235D7648AFDD53668F9596F30B29</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>FENIX_KIOSCO_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>CODE_ANALYSIS;TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="NetScanW, Version=2.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug1\NetScanW.dll</HintPath>
+    </Reference>
+    <Reference Include="NetScanWex, Version=2.0.1.9, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug1\NetScanWex.dll</HintPath>
+    </Reference>
+    <Reference Include="Neurotec, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea4ecf06177ea613, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Neurotec.dll</HintPath>
+    </Reference>
+    <Reference Include="Neurotec.Biometrics, Version=4.5.0.0, Culture=neutral, PublicKeyToken=ea4ecf06177ea613, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Neurotec.Biometrics.dll</HintPath>
+    </Reference>
+    <Reference Include="Neurotec.Biometrics.Gui, Version=4.5.0.0, Culture=neutral, PublicKeyToken=ea4ecf06177ea613, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Neurotec.Biometrics.Gui.dll</HintPath>
+    </Reference>
+    <Reference Include="Neurotec.Biometrics.Standards, Version=4.5.0.0, Culture=neutral, PublicKeyToken=ea4ecf06177ea613, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Neurotec.Biometrics.Standards.dll</HintPath>
+    </Reference>
+    <Reference Include="Neurotec.Biometrics.Standards.Gui, Version=4.5.0.0, Culture=neutral, PublicKeyToken=ea4ecf06177ea613, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Neurotec.Biometrics.Standards.Gui.dll</HintPath>
+    </Reference>
+    <Reference Include="Neurotec.Biometrics.Tools, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea4ecf06177ea613, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Neurotec.Biometrics.Tools.dll</HintPath>
+    </Reference>
+    <Reference Include="Neurotec.Cluster, Version=4.5.0.0, Culture=neutral, PublicKeyToken=ea4ecf06177ea613, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Neurotec.Cluster.dll</HintPath>
+    </Reference>
+    <Reference Include="Neurotec.Devices, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea4ecf06177ea613, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Neurotec.Devices.dll</HintPath>
+    </Reference>
+    <Reference Include="Neurotec.Devices.Virtual, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea4ecf06177ea613, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Neurotec.Devices.Virtual.dll</HintPath>
+    </Reference>
+    <Reference Include="Neurotec.Gui, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea4ecf06177ea613, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Neurotec.Gui.dll</HintPath>
+    </Reference>
+    <Reference Include="Neurotec.Licensing, Version=4.5.0.0, Culture=neutral, PublicKeyToken=ea4ecf06177ea613, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Neurotec.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Neurotec.Media, Version=4.1.0.0, Culture=neutral, PublicKeyToken=ea4ecf06177ea613, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Neurotec.Media.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Frm_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Principal.Designer.cs">
+      <DependentUpon>Frm_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyMessagebox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyMessagebox.Designer.cs">
+      <DependentUpon>MyMessagebox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\MCDIntegrationServices\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="ServiceResponse.cs" />
+    <Compile Include="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Frm_Principal.resx">
+      <DependentUpon>Frm_Principal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyMessagebox.resx">
+      <DependentUpon>MyMessagebox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="FENIX_KIOSCO_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\DataSources\System.Data.DataSet.datasource" />
+    <None Include="Properties\DataSources\System.Data.DataTable.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\MCDIntegrationServices\FENIX_KIOSCO.MCDIntegrationServices.ServiceResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\MCDIntegrationServices\wsModeloCanonico.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FNXIcono128.ico" />
+    <None Include="Service References\MCDIntegrationServices\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\MCDIntegrationServices\configuration.svcinfo" />
+    <None Include="Service References\MCDIntegrationServices\configuration91.svcinfo" />
+    <None Include="Service References\MCDIntegrationServices\wsModeloCanonico.disco" />
+    <None Include="Resources\_4f3FondoAzul1.png" />
+    <None Include="Resources\Logo_caja_honor_fondo_transparente.bmp" />
+    <None Include="Resources\Image1.bmp" />
+    <None Include="Resources\button_aceptar.png" />
+    <None Include="Resources\button_aceptar %281%29.png" />
+    <None Include="Resources\1f3FondoAzul.png" />
+    <None Include="Resources\button_aceptar %281%291.png" />
+    <None Include="Resources\button_aceptar1.png" />
+    <None Include="Resources\Buttons1\B0_P.png" />
+    <None Include="Resources\Buttons1\B0_UP.png" />
+    <None Include="Resources\Buttons1\B1_P.png" />
+    <None Include="Resources\Buttons1\B1_UP.png" />
+    <None Include="Resources\Buttons1\B2_P.png" />
+    <None Include="Resources\Buttons1\B2_UP.png" />
+    <None Include="Resources\Buttons1\B3_P.png" />
+    <None Include="Resources\Buttons1\B3_UP.png" />
+    <None Include="Resources\Buttons1\B4_P.png" />
+    <None Include="Resources\Buttons1\B4_UP.png" />
+    <None Include="Resources\Buttons1\B5_P.png" />
+    <None Include="Resources\Buttons1\B5_UP.png" />
+    <None Include="Resources\Buttons1\B6_P.png" />
+    <None Include="Resources\Buttons1\B6_UP.png" />
+    <None Include="Resources\Buttons1\B7_P.png" />
+    <None Include="Resources\Buttons1\B7_UP.png" />
+    <None Include="Resources\Buttons1\B8_P.png" />
+    <None Include="Resources\Buttons1\B8_UP.png" />
+    <None Include="Resources\Buttons1\B9_P.png" />
+    <None Include="Resources\Buttons1\B9_UP.png" />
+    <None Include="Resources\Buttons1\Baccept_P.png" />
+    <None Include="Resources\Buttons1\Baccept_UP.png" />
+    <None Include="Resources\Buttons1\Bcancel_P.png" />
+    <None Include="Resources\Buttons1\Bcancel_UP.png" />
+    <None Include="Resources\B_GrisP.png" />
+    <None Include="Resources\B_GrisUP.png" />
+    <None Include="Resources\button %288%29.png" />
+    <None Include="Resources\B_AdicUP_Discap.png" />
+    <None Include="Resources\B_AdicUP.png" />
+    <None Include="Resources\B_AdicP_Discap.png" />
+    <None Include="Resources\B_AdicP_Discap1.png" />
+    <None Include="Resources\B_AdicUP_Discap1.png" />
+    <None Include="Resources\B_Encabezado.png" />
+    <None Include="Resources\B_RegresarUP.png" />
+    <None Include="Resources\B_RegresarP.png" />
+    <None Include="Resources\B_FinalizarP.png" />
+    <None Include="Resources\B_FinalizarUP.png" />
+    <None Include="Resources\A_favor.png" />
+    <None Include="Resources\B_AceptarUP.png" />
+    <None Include="Resources\B_CancelarUP.png" />
+    <None Include="Resources\B_CancelarP.png" />
+    <None Include="Resources\B_AceptarP.png" />
+    <None Include="Resources\CasaCH.png" />
+    <None Include="Resources\button %2816%29.png" />
+    <None Include="Resources\button %2816%291.png" />
+    <None Include="Resources\button %2816%292.png" />
+    <None Include="Resources\button %2816%293.png" />
+    <None Include="Resources\button %2816%294.png" />
+    <None Include="Resources\7Unpress.png" />
+    <None Include="Resources\B7_UP.png" />
+    <None Include="Resources\640px-Wood_grain_German_Occupation_bunker_concrete_3.jpg" />
+    <None Include="Resources\Boton_Minusválido.png" />
+    <None Include="Resources\Boton_Regresar.png" />
+    <None Include="Resources\Boton_terminar.png" />
+    <Content Include="Resources\Logo_caja_honor_fondo_transparente.png" />
+    <None Include="Resources\unnamed.png" />
+    <None Include="Resources\Sin nombre.png" />
+    <None Include="Resources\Sin nombre1.png" />
+    <None Include="Resources\Sin nombre2.png" />
+    <None Include="Resources\Sin nombre11.png" />
+    <None Include="Resources\Sin nombre12.png" />
+    <None Include="Resources\Sin nombre3.png" />
+    <None Include="Resources\Sin nombre21.png" />
+    <None Include="Resources\Sin nombre31.png" />
+    <None Include="Resources\NewDesign\Lateral1.png" />
+    <None Include="Resources\NewDesign\Lateral2.png" />
+    <None Include="Resources\NewDesign\Lateral2.jpg" />
+    <None Include="Resources\NewDesign\B_AceptarP.png" />
+    <None Include="Resources\NewDesign\B_AceptarUP.png" />
+    <None Include="Resources\NewDesign\B_AdicP_Discap1.png" />
+    <None Include="Resources\NewDesign\B_AdicUP_Discap1.png" />
+    <None Include="Resources\NewDesign\B_CancelarP.png" />
+    <None Include="Resources\NewDesign\B_CancelarUP.png" />
+    <None Include="Resources\NewDesign\B_RegresarP.png" />
+    <None Include="Resources\NewDesign\B_Menu.png" />
+    <None Include="Resources\NewDesign\Encabezado.png" />
+    <None Include="Resources\NewDesign\B_FinalizarUP.png" />
+    <None Include="Resources\NewDesign\B_FinalizarP.png" />
+    <None Include="Resources\_1f3FondoAzul.png" />
+    <None Include="Resources\NewDesign\Encabezado3.png" />
+    <None Include="Resources\NewDesign\Fondo.png" />
+    <None Include="Resources\NewDesign\Encabezado4.png" />
+    <None Include="Resources\NewDesign\Encabezado5.png" />
+    <None Include="Resources\NewDesign\Encabezado6.png" />
+    <None Include="Resources\NewDesign\logoCaja.png" />
+    <None Include="Resources\NewDesign\Encabezado7.png" />
+    <Content Include="Resources\_1logo_fenix_azul 263x901.png" />
+    <None Include="Resources\1f2regresarBlanco128x1281.png" />
+    <None Include="Resources\Botones.png" />
+    <None Include="Resources\Aceptar11.png" />
+    <None Include="Resources\Numeros1.png" />
+    <None Include="Resources\Cancelar1.png" />
+    <None Include="Resources\button_031.png" />
+    <None Include="Resources\button_0 %283%29.png" />
+    <None Include="Resources\Aceptar1.png" />
+    <None Include="Resources\2f3RegresarAzulClaro.png" />
+    <None Include="Resources\2f3TerminarAzulClaro.png" />
+    <None Include="Resources\1f3SalirBlanco128x1281.png" />
+    <None Include="Resources\2TurnoPreferencial1.png" />
+    <None Include="Resources\2TurnoPreferencial.png" />
+    <None Include="Resources\Encabezado2.png" />
+    <None Include="Resources\Encabezado1.png" />
+    <None Include="Resources\button_13.png" />
+    <None Include="Resources\button_12.png" />
+    <None Include="Resources\button_05.png" />
+    <None Include="Resources\button_04.png" />
+    <None Include="Resources\button_03.png" />
+    <None Include="Resources\button_02.png" />
+    <None Include="Resources\button_01.png" />
+    <None Include="Resources\button_11.png" />
+    <None Include="Resources\button_0.png" />
+    <None Include="Resources\button_1.png" />
+    <None Include="Resources\2f3RegresarAzul.png" />
+    <None Include="Resources\1TurnoPreferencial.png" />
+    <None Include="Resources\2f3TerminarAzul.png" />
+    <None Include="Resources\1f3SombraAzul.png" />
+    <None Include="Resources\Encabezados.png" />
+    <None Include="Resources\logcapInv2.png" />
+    <None Include="Resources\logcapInv1.png" />
+    <None Include="Resources\logcapInv.png" />
+    <None Include="Resources\logcpvmp.png" />
+    <None Include="Resources\logcap.png" />
+    <None Include="Resources\1replicarcpvmp.png" />
+    <None Include="Resources\TurnoPreferencial.png" />
+    <None Include="Resources\1logo fenix azul 263x90.png" />
+    <None Include="Resources\Captura_de_pantalla_2013_08_23_a_la_s__9_091.png" />
+    <None Include="Resources\header %281%29.jpg" />
+    <None Include="Resources\1animacion huella.gif" />
+    <None Include="Resources\1HuellaAzulNuve 350x400.png" />
+    <None Include="Resources\1AzulClaro96x23.png" />
+    <None Include="Resources\1Naranja96x231.png" />
+    <None Include="Resources\1Naranja96x23.png" />
+    <None Include="Resources\1Morado96x23.png" />
+    <None Include="Resources\1VerdeClaro96x23.png" />
+    <None Include="Resources\1f3HuellaGris165x230.png" />
+    <None Include="Resources\2f3TerminarBlanco.png" />
+    <None Include="Resources\2f3RegresarBlanco.png" />
+    <None Include="Resources\1f2regresarBlanco128x128.png" />
+    <None Include="Resources\1f3SalirBlanco128x128.png" />
+    <None Include="Resources\1salir 180x180 blanco1.png" />
+    <None Include="Resources\2f3VerdeClaro23x961.png" />
+    <None Include="Resources\1f3SombraNegra.png" />
+    <None Include="Resources\2f3SombraNegra.png" />
+    <None Include="Resources\3f3SombraNegra.png" />
+    <None Include="Resources\1salir 180x180 blanco.png" />
+    <None Include="Resources\1f3Rojo23x215.png" />
+    <None Include="Resources\1regresar 180x180 blanco.png" />
+    <None Include="Resources\2f3VerdeClaro23x215.png" />
+    <None Include="Resources\1f3VerdeClaro23x96.png" />
+    <None Include="Resources\imgnew.gif" />
+    <None Include="Resources\1f3AzulClaro23x961.png" />
+    <None Include="Resources\4f3FondoAzul1.png" />
+    <None Include="Resources\2f3VerdeClaro23x96.png" />
+    <None Include="Resources\1f3AzulClaro23x96.png" />
+    <None Include="Resources\imageneskioscof3\1f3Rojo23x96.png" />
+    <None Include="Resources\imageneskioscof3\2f3Naranja23x96.png" />
+    <None Include="Resources\imageneskioscof3\2f3Gris23x96.png" />
+    <None Include="Resources\1Ced128x128Negro.png" />
+    <None Include="Resources\4f3FondoAzul.png" />
+    <None Include="Resources\imageneskioscof3\2f3FondoAzul.png" />
+    <None Include="Resources\imageneskioscof3\1f3FondoAzul.png" />
+    <None Include="Resources\imageneskioscof3\1f3AzulClaro23x96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\NBToolsNet\NBToolsNet\NBToolsNet.csproj">
+      <Project>{78413a75-bf97-4400-97f4-f107d95047fa}</Project>
+      <Name>NBToolsNet</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\_C_Devices_N_4_3\_C_Devices_N_4_3\_C_Devices_N_4_3.csproj">
+      <Project>{1b191f6a-a5a7-44e6-83fa-6773f7d8e9e0}</Project>
+      <Name>_C_Devices_N_4_3</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko\_C_Fenix_Kiosko.csproj">
+      <Project>{068250fd-09f4-4980-b029-3b249ff0eaa1}</Project>
+      <Name>_C_Fenix_Kiosko</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\_C_ProgRes\_C_ProgRes\_C_ProgRes\_C_ProgRes.csproj">
+      <Project>{b419b184-5e7e-49fb-9a18-202a98cd386d}</Project>
+      <Name>_C_ProgRes</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\NewButtons\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\MCDIntegrationServices\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('$(SolutionDir)\.nuget\NuGet.targets')" Text="$([System.String]::Format('$(ErrorText)', '$(SolutionDir)\.nuget\NuGet.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,88 @@
+﻿[FIRMA]
+1 = Firma
+[FIN FIRMA]
+;==================================================
+[DOCUMENTO]
+1 = DOCUMENTOSImagen1
+2 = DOCUMENTOSImagen2
+3 = documento
+4 = documento-back
+[FIN DOCUMENTO]
+;==================================================
+[HUELLA]
+1 = PulgarDerecho
+2 = IndiceDerecho
+3 = MedioDerecho
+4 = AnularDerecho
+5 = MeñiqueDerecho
+6 = PulgarIzquierdo
+7 = IndiceIzquierdo
+8 = MedioIzquierdo
+9 = AnularIzquierdo
+10 = MeñiqueIzquierdo
+11 = PulgarDerecho_
+12 = IndiceDerecho_
+13 = MedioDerecho_
+14 = AnularDerecho_
+15 = MeñiqueDerecho_
+16 = PulgarIzquierdo_
+17 = IndiceIzquierdo_
+18 = MedioIzquierdo_
+19 = AnularIzquierdo_
+20 = MeñiqueIzquierdo_
+21 = Pulgar_Derecho_
+22 = Indice_Derecho_
+23 = Medio_Derecho_
+24 = Anular_Derecho_
+25 = Meñique_Derecho_
+26 = Pulgar_Izquierdo_
+27 = Indice_Izquierdo_
+28 = Medio_Izquierdo_
+29 = Anular_Izquierdo_
+30 = Meñique_Izquierdo_
+31 = Indice_Der_IMG
+32 = Indice_Izq_IMG
+33 = Indice_Der_RES
+34 = Indice_Izq_RES
+35 = Pulgar_Der_IMG
+36 = Pulgar_Izq_IMG
+37 = Pulgar_Izq_RES
+38 = Pulgar_Der_RES
+39 = Medio_Der_IMG
+40 = Medio_Izq_IMG
+41 = Medio_Izq_RES
+42 = Medio_Der_RES
+43 = Anular_Der_IMG
+44 = Anular_Izq_IMG
+45 = Anular_Izq_RES
+46 = Anular_Der_RES
+47 = Meñique_Der_IMG
+48 = Meñique_Izq_IMG
+49 = Meñique_Izq_RES
+50 = Meñique_Der_RES
+51 = Pulgar Derecho
+52 = Indice Derecho
+53 = Medio Derecho
+54 = Anular Derecho
+55 = Meñique Derecho
+56 = Pulgar Izquierdo
+57 = Indice Izquierdo
+58 = Medio Izquierdo
+59 = Anular Izquierdo
+60 = Meñique Izquierdo
+[FIN HUELLA]
+;==================================================
+[ROSTRO]
+1 = Foto
+[FIN ROSTRO]
+;==================================================
+[IRIS]
+1 = IrisDerecho1
+2 = IrisDerecho2
+3 = IrisIzquierdo1
+4 = IrisIzquierdo2
+[FIN IRIS]
+;==================================================
+
+
+

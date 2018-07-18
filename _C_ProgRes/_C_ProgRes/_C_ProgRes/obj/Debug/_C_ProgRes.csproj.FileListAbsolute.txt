@@ -1,0 +1,309 @@
+C:\SubVersion_New\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\Mono.Security.dll
+C:\SubVersion_New\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.pdb
+C:\SubVersion_New\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\ResolveAssemblyReference.cache
+C:\SubVersion_New\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+C:\SubVersion_New\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+C:\SubVersion_New\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\GenerateResource.read.1.tlog
+C:\SubVersion_New\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\GenerateResource.write.1.tlog
+C:\SubVersion_New\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+C:\SubVersion_New\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+C:\SubVersion_New\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\Mono.Security.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+C:\SubVersion_New\Fenix_Kiosko_New-22122014\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\Fenix_Kiosko_New-07012015\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.1 F\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2B\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.2C\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+C:\SubVersion_New\KIOSCO 2.1.0.3A\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+C:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\PRUEBA\KIOSCO 2.1.0.3(A)\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\KIOSCO 2.1.0.3(A)\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\PRUEBA\KIOSCO 2.1.0.4(A) - turno&logo_28062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\KIOSCO 2.1.0.4(B) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\KIOSCO 2.1.0.4(C) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.4(D) - turno&logo\KIOSCO 2.1.0.4(D) - turno&logo_30062016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas 03082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño2 17082016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.5(E) - Alertas & Diseño3 17082016 -\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\_C_ProgRes.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\Debug\_C_ProgRes.pdb

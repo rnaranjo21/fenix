@@ -1,0 +1,128 @@
+*******************************************************************************
+16/04/2018 05:21:45 p.m.
+Manage_Template : enviando solicitud de verificacion para cc: 79900030
+*******************************************************************************
+16/04/2018 05:21:46 p.m.
+172.16.2.249:4114 FENIXVerificar(): DATOS ENVIADOS :3871
+*******************************************************************************
+16/04/2018 05:21:47 p.m.
+Respuesta desde el servidor 172.16.2.249 FENIX-Verificar TRANSMISIONok
+*******************************************************************************
+16/04/2018 05:21:47 p.m.
+ClasX_AppKiosko.TraeBios(),  INICIANDO ... -9
+*******************************************************************************
+16/04/2018 05:21:47 p.m.
+ClasX_AppKiosko.TraeBios(),  INFO_KIOSKO =no
+*******************************************************************************
+16/04/2018 05:21:47 p.m.
+ClasX_AppKiosko.TraeBios(),  Creando directorio local :C:\fnx
+*******************************************************************************
+16/04/2018 05:21:47 p.m.
+ClasX_AppKiosko.TraeBios(),  Creando ClasX_ClienteTCP 
+*******************************************************************************
+16/04/2018 05:21:47 p.m.
+Halla_Usuario_Pandora : entrando en metodo Halla_Usuario_Pandora
+*******************************************************************************
+16/04/2018 05:21:47 p.m.
+Halla_Usuario_Pandora : saliendo en metodo Halla_Usuario_Pandora
+*******************************************************************************
+16/04/2018 05:21:47 p.m.
+ClasX_AppKiosko.TraeBios(),  Usuario en Pandora : K_Can
+*******************************************************************************
+16/04/2018 05:21:47 p.m.
+ClasX_AppKiosko.TraeBios(),  stL_Ruta_Bio : Y:\\Repositorios\Repositorio2\65
+*******************************************************************************
+16/04/2018 05:21:48 p.m.
+ClasX_AppKiosko.TraeBios(),  Respuesta SAUNZIP : OK
+*******************************************************************************
+16/04/2018 05:21:48 p.m.
+ClasX_AppKiosko.TraeBios(),  Respuesta SADIR : SA-DIR 
+
+
+
+*******************************************************************************
+16/04/2018 05:21:48 p.m.
+ClasX_AppKiosko.TraeBios(),  Validando Archivos en el Servidor ... 
+*******************************************************************************
+16/04/2018 05:21:49 p.m.
+ClasX_AppKiosko.TraeBios(),  Respuesta : SA-DIR 
+80755565.txt
+Indice Derecho_1.jpg
+Indice Derecho_2.jpg
+Indice Derecho_3.jpg
+Indice Derecho_4.jpg
+Indice Izquierdo_1.jpg
+Indice Izquierdo_2.jpg
+Indice Izquierdo_3.jpg
+Indice Izquierdo_4.jpg
+Pulgar Derecho_1.jpg
+Pulgar Derecho_2.jpg
+Pulgar Derecho_3.jpg
+Pulgar Derecho_4.jpg
+Pulgar Izquierdo_1.jpg
+Pulgar Izquierdo_2.jpg
+Pulgar Izquierdo_3.jpg
+Pulgar Izquierdo_4.jpg
+
+
+
+*******************************************************************************
+16/04/2018 05:21:49 p.m.
+ClasX_AppKiosko.TraeBios(),  Evaluando biometrias ...
+*******************************************************************************
+16/04/2018 05:21:49 p.m.
+ClasX_AppKiosko.TraeBios(),  st_biofalta : FALTA: FIRMA, DOCTO, 
+*******************************************************************************
+16/04/2018 05:21:49 p.m.
+ClasX_AppKiosko.TraeBios(),  Archivos en la biometria se encontraron : 16
+*******************************************************************************
+16/04/2018 05:21:49 p.m.
+ClasX_AppKiosko.TraeBios(),  Inicia transmision de archivos ...
+*******************************************************************************
+16/04/2018 05:21:50 p.m. USUARIO: ruben.naranjo
+COMPONENTE: NBToolsNet.dll
+CLASE O MODULO: CLNBTN_CliPro METODO: CMD2Get
+
+DESCRIPCION DEL ERROR: Exception: GET Respuesta de conexi?n no v?lida 'IFX-Get NOEXISTE'
+*******************************************************************************
+16/04/2018 05:21:50 p.m. USUARIO: ruben.naranjo
+COMPONENTE: NBToolsNet.dll
+CLASE O MODULO: CLNBTN_CliPro METODO: RecieveFile
+
+DESCRIPCION DEL ERROR: Exception: Referencia a objeto no establecida como instancia de un objeto.
+*******************************************************************************
+16/04/2018 05:21:50 p.m. USUARIO: ruben.naranjo
+COMPONENTE: _C_ProgRes
+CLASE O MODULO: ClasX_ClienteTCP METODO: RecibirArchivo(2)
+
+DESCRIPCION DEL ERROR: Referencia a objeto no establecida como instancia de un objeto.
+*******************************************************************************
+16/04/2018 05:21:54 p.m. USUARIO: ruben.naranjo
+COMPONENTE: NBToolsNet.dll
+CLASE O MODULO: CLNBTN_CliPro METODO: CMD2Get
+
+DESCRIPCION DEL ERROR: Exception: GET Respuesta de conexi?n no v?lida 'IFX-Get NOEXISTE'
+*******************************************************************************
+16/04/2018 05:21:54 p.m. USUARIO: ruben.naranjo
+COMPONENTE: NBToolsNet.dll
+CLASE O MODULO: CLNBTN_CliPro METODO: RecieveFile
+
+DESCRIPCION DEL ERROR: Exception: Referencia a objeto no establecida como instancia de un objeto.
+*******************************************************************************
+16/04/2018 05:21:54 p.m. USUARIO: ruben.naranjo
+COMPONENTE: _C_ProgRes
+CLASE O MODULO: ClasX_ClienteTCP METODO: RecibirArchivo(2)
+
+DESCRIPCION DEL ERROR: Referencia a objeto no establecida como instancia de un objeto.
+*******************************************************************************
+16/04/2018 05:21:54 p.m.
+ClasX_AppKiosko.TraeBios(),  ERROR Algun problema con la transmision o no hay archivos : ERROR
+*******************************************************************************
+16/04/2018 05:21:54 p.m.
+ClasX_AppKiosko.TraeBios(),  Se borraron archivos temporales
+*******************************************************************************
+16/04/2018 05:21:54 p.m.
+ClasX_AppKiosko.TraeBios(),  Respuesta 2 thread : 1
+*******************************************************************************
+16/04/2018 05:21:54 p.m.
+ClasX_AppKiosko.TraeBios(),  Termina Ok

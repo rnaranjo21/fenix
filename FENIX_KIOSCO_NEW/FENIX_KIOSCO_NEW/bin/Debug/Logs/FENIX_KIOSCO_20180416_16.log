@@ -1,0 +1,671 @@
+*******************************************************************************
+16/04/2018 04:51:46 p.m.
+Inicializar(), Inciando KIOSCO Verion : 3.0.0.0
+*******************************************************************************
+16/04/2018 04:51:46 p.m.
+frm_Principal.Inicializar(), Buscando Archivo de configuracion
+*******************************************************************************
+16/04/2018 04:51:46 p.m.
+frm_Principal.Inicializar(), inicia Lectura Informacion Archivo de Configuracion
+*******************************************************************************
+16/04/2018 04:51:46 p.m.
+frm_Principal.Inicializar(), Conectando webService DigTurno
+*******************************************************************************
+16/04/2018 04:51:46 p.m.
+Iniciando Test de conexion a servidores modo (FULL).....
+*******************************************************************************
+16/04/2018 04:51:46 p.m.
+VerificaFenix_GA2 : Conexion Fenix (CPVMP-515): CORRECTO.
+*******************************************************************************
+16/04/2018 04:51:46 p.m.
+VerificaConexionBD : Conexion a BD Fenix: CORRECTO.
+*******************************************************************************
+16/04/2018 04:51:46 p.m.
+antes de VerificaConexionGA2.if (!this.Conecta_BD_Ga2('001', st_ParamBd, ref inR_A001NUM_IDENTIFICACION))
+*******************************************************************************
+16/04/2018 04:51:46 p.m.
+antes de Conecta_BD_Ga2.SqlDataReader rdr = objL_Consultas.EjecutaSP('SP_010_LEE_AFILIADO_GA2', st_Cedula);
+*******************************************************************************
+16/04/2018 04:51:47 p.m.
+despues de Conecta_BD_Ga2.SqlDataReader rdr = objL_Consultas.EjecutaSP('SP_010_LEE_AFILIADO_GA2', st_Cedula);
+*******************************************************************************
+16/04/2018 04:51:47 p.m.
+antes de Conecta_BD_Ga2.if (rdr != null)
+*******************************************************************************
+16/04/2018 04:51:47 p.m.
+despu?s de Conecta_BD_Ga2.Conecta_BD_Ga2.if (rdr != null)
+*******************************************************************************
+16/04/2018 04:51:47 p.m.
+antes de Conecta_BD_Ga2.rdr.Close()
+*******************************************************************************
+16/04/2018 04:51:47 p.m.
+despues de Conecta_BD_Ga2.rdr.Close()
+*******************************************************************************
+16/04/2018 04:51:47 p.m.
+antes de Conecta_BD_Ga2.objL_Consultas.CierraCOnexiones();
+*******************************************************************************
+16/04/2018 04:51:47 p.m.
+despues de Conecta_BD_Ga2.objL_Consultas.CierraCOnexiones();
+*******************************************************************************
+16/04/2018 04:51:47 p.m.
+VerificaConexionGA2 : Conexion_BD_Ga2: CORRECTO.
+*******************************************************************************
+16/04/2018 04:51:47 p.m.
+TestDigiturno : Conexion Digiturno: CORRECTO.
+*******************************************************************************
+16/04/2018 04:51:47 p.m.
+frm_Principal.Inicializar(), Ingresando en modo FULL OK 
+*******************************************************************************
+16/04/2018 04:51:47 p.m.
+frm_Principal.borraDirTemporales(), Inicia
+*******************************************************************************
+16/04/2018 04:51:47 p.m.
+frm_Principal.borraDirTemporales(), Termina OK
+*******************************************************************************
+16/04/2018 04:51:47 p.m.
+Inicializar(), Terminando OK
+*******************************************************************************
+16/04/2018 04:52:01 p.m.
+frm_Principal.CMD_Aceptar_Click(), Inicia ...
+*******************************************************************************
+16/04/2018 04:52:01 p.m.
+frm_Principal.CMD_Aceptar_Click(), Inicia Proceso para CEDULA : 80755565
+*******************************************************************************
+16/04/2018 04:52:01 p.m.
+frm_Principal.CMD_Aceptar_Click(), Validando aDIRECTOR (CPVMP-515:4114)
+*******************************************************************************
+16/04/2018 04:52:01 p.m.
+frm_Principal.CMD_Aceptar_Click(),  aDIRECTOR OK ...
+*******************************************************************************
+16/04/2018 04:52:01 p.m.
+frm_Principal.consultaCedulaEnGA2(),  Ejecutando SP: SP_010_LEE_AFILIADO_GA2 para cc: 80755565
+*******************************************************************************
+16/04/2018 04:52:01 p.m.
+frm_Principal.consultaCedulaEnGA2(),  rdr OK ...
+*******************************************************************************
+16/04/2018 04:52:01 p.m.
+frm_Principal.CMD_Aceptar_Click(), Se obtuvieron resultados de SP: SP_010_LEE_AFILIADO_GA2 para cc: 80755565
+*******************************************************************************
+16/04/2018 04:52:01 p.m.
+frm_Principal.CMD_Aceptar_Click(),  Iniciando THREAD para : 80755565
+*******************************************************************************
+16/04/2018 04:52:01 p.m.
+frm_Principal.ActivaEscaner(),  Cargando dispositivo de Huella ...
+*******************************************************************************
+16/04/2018 04:52:01 p.m.
+frm_Principal.ActivaEscaner(),  Licencias de Huella Ok
+*******************************************************************************
+16/04/2018 04:52:01 p.m.
+frm_Principal.ActivaEscaner(),  Estado del Huellero OK 
+*******************************************************************************
+16/04/2018 04:52:02 p.m.
+frm_Principal.cambiaPantallas(),  Inicia ...
+*******************************************************************************
+16/04/2018 04:52:02 p.m.
+frm_Principal.cambiaPantallas(),  PANEL_CAPTURA_HUELLA
+*******************************************************************************
+16/04/2018 04:52:02 p.m.
+frm_Principal.StartTiemrHuella(),  Iniciando ...
+*******************************************************************************
+16/04/2018 04:52:02 p.m.
+frm_Principal.StartTimer(),  Iniciando ...
+*******************************************************************************
+16/04/2018 04:52:02 p.m.
+frm_Principal.StartTimer(), Termina
+*******************************************************************************
+16/04/2018 04:52:02 p.m.
+frm_Principal.cambiaPantallas(),  Termina OK
+*******************************************************************************
+16/04/2018 04:52:02 p.m.
+frm_Principal.CMD_Aceptar_Click(),  Iniciando THREAD para : 80755565
+*******************************************************************************
+16/04/2018 04:52:02 p.m.
+frm_Principal.CMD_Aceptar_Click(), Termina OK
+*******************************************************************************
+16/04/2018 04:53:02 p.m.
+Inicializar(), Inciando KIOSCO Verion : 3.0.0.0
+*******************************************************************************
+16/04/2018 04:53:02 p.m.
+frm_Principal.Inicializar(), Buscando Archivo de configuracion
+*******************************************************************************
+16/04/2018 04:53:02 p.m.
+frm_Principal.Inicializar(), inicia Lectura Informacion Archivo de Configuracion
+*******************************************************************************
+16/04/2018 04:53:02 p.m.
+frm_Principal.Inicializar(), Conectando webService DigTurno
+*******************************************************************************
+16/04/2018 04:53:02 p.m.
+Iniciando Test de conexion a servidores modo (FULL).....
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+VerificaFenix_GA2 : Conexion Fenix (CPVMP-515): CORRECTO.
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+VerificaConexionBD : Conexion a BD Fenix: CORRECTO.
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+antes de VerificaConexionGA2.if (!this.Conecta_BD_Ga2('001', st_ParamBd, ref inR_A001NUM_IDENTIFICACION))
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+antes de Conecta_BD_Ga2.SqlDataReader rdr = objL_Consultas.EjecutaSP('SP_010_LEE_AFILIADO_GA2', st_Cedula);
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+despues de Conecta_BD_Ga2.SqlDataReader rdr = objL_Consultas.EjecutaSP('SP_010_LEE_AFILIADO_GA2', st_Cedula);
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+antes de Conecta_BD_Ga2.if (rdr != null)
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+despu?s de Conecta_BD_Ga2.Conecta_BD_Ga2.if (rdr != null)
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+antes de Conecta_BD_Ga2.rdr.Close()
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+despues de Conecta_BD_Ga2.rdr.Close()
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+antes de Conecta_BD_Ga2.objL_Consultas.CierraCOnexiones();
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+despues de Conecta_BD_Ga2.objL_Consultas.CierraCOnexiones();
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+VerificaConexionGA2 : Conexion_BD_Ga2: CORRECTO.
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+TestDigiturno : Conexion Digiturno: CORRECTO.
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+frm_Principal.Inicializar(), Ingresando en modo FULL OK 
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+frm_Principal.borraDirTemporales(), Inicia
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+frm_Principal.borraDirTemporales(), Termina OK
+*******************************************************************************
+16/04/2018 04:53:03 p.m.
+Inicializar(), Terminando OK
+*******************************************************************************
+16/04/2018 04:53:17 p.m.
+frm_Principal.CMD_Aceptar_Click(), Inicia ...
+*******************************************************************************
+16/04/2018 04:53:17 p.m.
+frm_Principal.CMD_Aceptar_Click(), Inicia Proceso para CEDULA : 80755565
+*******************************************************************************
+16/04/2018 04:53:17 p.m.
+frm_Principal.CMD_Aceptar_Click(), Validando aDIRECTOR (CPVMP-515:4114)
+*******************************************************************************
+16/04/2018 04:53:17 p.m.
+frm_Principal.CMD_Aceptar_Click(),  aDIRECTOR OK ...
+*******************************************************************************
+16/04/2018 04:53:17 p.m.
+frm_Principal.consultaCedulaEnGA2(),  Ejecutando SP: SP_010_LEE_AFILIADO_GA2 para cc: 80755565
+*******************************************************************************
+16/04/2018 04:53:17 p.m.
+frm_Principal.consultaCedulaEnGA2(),  rdr OK ...
+*******************************************************************************
+16/04/2018 04:53:17 p.m.
+frm_Principal.CMD_Aceptar_Click(), Se obtuvieron resultados de SP: SP_010_LEE_AFILIADO_GA2 para cc: 80755565
+*******************************************************************************
+16/04/2018 04:53:17 p.m.
+frm_Principal.CMD_Aceptar_Click(),  Iniciando THREAD para : 80755565
+*******************************************************************************
+16/04/2018 04:53:17 p.m.
+frm_Principal.ActivaEscaner(),  Cargando dispositivo de Huella ...
+*******************************************************************************
+16/04/2018 04:53:17 p.m.
+frm_Principal.ActivaEscaner(),  Licencias de Huella Ok
+*******************************************************************************
+16/04/2018 04:53:17 p.m.
+frm_Principal.ActivaEscaner(),  Estado del Huellero OK 
+*******************************************************************************
+16/04/2018 04:53:18 p.m.
+frm_Principal.cambiaPantallas(),  Inicia ...
+*******************************************************************************
+16/04/2018 04:53:18 p.m.
+frm_Principal.cambiaPantallas(),  PANEL_CAPTURA_HUELLA
+*******************************************************************************
+16/04/2018 04:53:18 p.m.
+frm_Principal.StartTiemrHuella(),  Iniciando ...
+*******************************************************************************
+16/04/2018 04:53:18 p.m.
+frm_Principal.StartTimer(),  Iniciando ...
+*******************************************************************************
+16/04/2018 04:53:18 p.m.
+frm_Principal.StartTimer(), Termina
+*******************************************************************************
+16/04/2018 04:53:18 p.m.
+frm_Principal.cambiaPantallas(),  Termina OK
+*******************************************************************************
+16/04/2018 04:53:18 p.m.
+frm_Principal.CMD_Aceptar_Click(),  Iniciando THREAD para : 80755565
+*******************************************************************************
+16/04/2018 04:53:18 p.m.
+frm_Principal.CMD_Aceptar_Click(), Termina OK
+*******************************************************************************
+16/04/2018 04:53:20 p.m.
+frm_Principal.dev_avisarTermine(), Inicia ..
+*******************************************************************************
+16/04/2018 04:53:20 p.m.
+frm_Principal.dev_avisarTermine(), Termina ..
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+frm_Principal.haceTodo(), Inicia ... : 79900030 :: 1
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+frm_Principal.haceTodo(), Huella Capturada OK : 79900030
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+frm_Principal.dev_ListoGrabar(), Imagen y Template OK : 79900030
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+Manage_Template : enviando solicitud de verificacion para cc: 79900030
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+172.16.2.249:4114 FENIXVerificar(): DATOS ENVIADOS :4973
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+Respuesta desde el servidor 172.16.2.249 FENIX-Verificar TRANSMISIONok
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+frm_Principal.dev_ListoGrabar(), Respuesta de validacion en SERVIDOR : 79900030 :: Respta1
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+ClasX_AppKiosko.TraeBios(),  INICIANDO ... -9
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+ClasX_AppKiosko.TraeBios(),  INFO_KIOSKO =no
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+ClasX_AppKiosko.TraeBios(),  Creando directorio local :C:\fnx
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+ClasX_AppKiosko.TraeBios(),  Creando ClasX_ClienteTCP 
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+Halla_Usuario_Pandora : entrando en metodo Halla_Usuario_Pandora
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+Halla_Usuario_Pandora : saliendo en metodo Halla_Usuario_Pandora
+*******************************************************************************
+16/04/2018 04:53:21 p.m.
+ClasX_AppKiosko.TraeBios(),  Usuario en Pandora : K_Can
+*******************************************************************************
+16/04/2018 04:53:22 p.m.
+ClasX_AppKiosko.TraeBios(),  stL_Ruta_Bio : Y:\\Repositorios\Repositorio2\65
+*******************************************************************************
+16/04/2018 04:53:22 p.m.
+ClasX_AppKiosko.TraeBios(),  Respuesta SAUNZIP : OK
+*******************************************************************************
+16/04/2018 04:53:23 p.m.
+ClasX_AppKiosko.TraeBios(),  Respuesta SADIR : SA-DIR 
+
+
+
+*******************************************************************************
+16/04/2018 04:53:23 p.m.
+ClasX_AppKiosko.TraeBios(),  Validando Archivos en el Servidor ... 
+*******************************************************************************
+16/04/2018 04:53:23 p.m.
+ClasX_AppKiosko.TraeBios(),  Respuesta : SA-DIR 
+80755565.txt
+Indice Derecho_1.jpg
+Indice Derecho_2.jpg
+Indice Derecho_3.jpg
+Indice Derecho_4.jpg
+Indice Izquierdo_1.jpg
+Indice Izquierdo_2.jpg
+Indice Izquierdo_3.jpg
+Indice Izquierdo_4.jpg
+Pulgar Derecho_1.jpg
+Pulgar Derecho_2.jpg
+Pulgar Derecho_3.jpg
+Pulgar Derecho_4.jpg
+Pulgar Izquierdo_1.jpg
+Pulgar Izquierdo_2.jpg
+Pulgar Izquierdo_3.jpg
+Pulgar Izquierdo_4.jpg
+
+
+
+*******************************************************************************
+16/04/2018 04:53:23 p.m.
+ClasX_AppKiosko.TraeBios(),  Evaluando biometrias ...
+*******************************************************************************
+16/04/2018 04:53:23 p.m.
+ClasX_AppKiosko.TraeBios(),  st_biofalta : FALTA: FIRMA, DOCTO, 
+*******************************************************************************
+16/04/2018 04:53:23 p.m.
+ClasX_AppKiosko.TraeBios(),  Archivos en la biometria se encontraron : 16
+*******************************************************************************
+16/04/2018 04:53:23 p.m.
+ClasX_AppKiosko.TraeBios(),  Inicia transmision de archivos ...
+*******************************************************************************
+16/04/2018 04:53:24 p.m. USUARIO: ruben.naranjo
+COMPONENTE: NBToolsNet.dll
+CLASE O MODULO: CLNBTN_CliPro METODO: CMD2Get
+
+DESCRIPCION DEL ERROR: Exception: GET Respuesta de conexi?n no v?lida 'IFX-Get NOEXISTE'
+*******************************************************************************
+16/04/2018 04:53:24 p.m. USUARIO: ruben.naranjo
+COMPONENTE: NBToolsNet.dll
+CLASE O MODULO: CLNBTN_CliPro METODO: RecieveFile
+
+DESCRIPCION DEL ERROR: Exception: Referencia a objeto no establecida como instancia de un objeto.
+*******************************************************************************
+16/04/2018 04:53:24 p.m. USUARIO: ruben.naranjo
+COMPONENTE: _C_ProgRes
+CLASE O MODULO: ClasX_ClienteTCP METODO: RecibirArchivo(2)
+
+DESCRIPCION DEL ERROR: Referencia a objeto no establecida como instancia de un objeto.
+*******************************************************************************
+16/04/2018 04:53:24 p.m. USUARIO: ruben.naranjo
+COMPONENTE: NBToolsNet.dll
+CLASE O MODULO: CLNBTN_CliPro METODO: CMD2Get
+
+DESCRIPCION DEL ERROR: Exception: GET Respuesta de conexi?n no v?lida 'IFX-Get NOEXISTE'
+*******************************************************************************
+16/04/2018 04:53:24 p.m. USUARIO: ruben.naranjo
+COMPONENTE: NBToolsNet.dll
+CLASE O MODULO: CLNBTN_CliPro METODO: RecieveFile
+
+DESCRIPCION DEL ERROR: Exception: Referencia a objeto no establecida como instancia de un objeto.
+*******************************************************************************
+16/04/2018 04:53:24 p.m. USUARIO: ruben.naranjo
+COMPONENTE: _C_ProgRes
+CLASE O MODULO: ClasX_ClienteTCP METODO: RecibirArchivo(2)
+
+DESCRIPCION DEL ERROR: Referencia a objeto no establecida como instancia de un objeto.
+*******************************************************************************
+16/04/2018 04:53:24 p.m.
+ClasX_AppKiosko.TraeBios(),  ERROR Algun problema con la transmision o no hay archivos : ERROR
+*******************************************************************************
+16/04/2018 04:53:24 p.m.
+ClasX_AppKiosko.TraeBios(),  Se borraron archivos temporales
+*******************************************************************************
+16/04/2018 04:53:24 p.m.
+ClasX_AppKiosko.TraeBios(),  Respuesta 2 thread : 1
+*******************************************************************************
+16/04/2018 04:53:24 p.m.
+ClasX_AppKiosko.TraeBios(),  Termina Ok
+*******************************************************************************
+16/04/2018 04:53:24 p.m.
+No se encontro registro biometrico para cedula 79900030
+*******************************************************************************
+16/04/2018 04:53:27 p.m.
+El afiliado con n?mero de documento: 80755565. Tiene inconvenientes con su biometr?a. Se asignar? turno B.
+*******************************************************************************
+16/04/2018 04:53:27 p.m.
+frm_Principal.StopTimer(), Inicio
+*******************************************************************************
+16/04/2018 04:53:27 p.m.
+frm_Principal.StopTimer(), Termina
+*******************************************************************************
+16/04/2018 04:53:27 p.m.
+frm_Principal.StopTiemrHuella(),  Iniciando ...
+*******************************************************************************
+16/04/2018 04:53:27 p.m.
+frm_Principal.detieneEscaner(), Inicia
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.detieneEscaner(), Cancelando Escaner ... 
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.detieneEscaner(), Deteniendo Escaner ... 
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.detieneEscaner(), Escaner detenido OK
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.VuelveInicio(), Inicia ...
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.VuelveInicio(), Modo FULL detectado ..
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.VuelveInicio(), TERMINA OK : 
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.StopTimer(), Inicio
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.StopTimer(), Termina
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.StopTiemrHuella(),  Iniciando ...
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.detieneEscaner(), Inicia
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.VuelveInicio(), Inicia ...
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.VuelveInicio(), Saliendo, ejecucion no permitida ejecutaFuncionArreglaPantalla = False
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.VuelveInicio(), Modo FULL detectado ..
+*******************************************************************************
+16/04/2018 04:54:59 p.m.
+frm_Principal.VuelveInicio(), TERMINA OK : 
+*******************************************************************************
+16/04/2018 05:02:13 p.m.
+frm_Principal.cambiaPantallas(),  Inicia ...
+*******************************************************************************
+16/04/2018 05:02:13 p.m.
+frm_Principal.cambiaPantallas(),  PANEL TURNOS
+*******************************************************************************
+16/04/2018 05:02:13 p.m.
+frm_Principal.cambiaPantallas(),  Termina OK
+*******************************************************************************
+16/04/2018 05:02:14 p.m.
+frm_Principal.cambiaPantallas(),  Inicia ...
+*******************************************************************************
+16/04/2018 05:02:14 p.m.
+frm_Principal.cambiaPantallas(), PANEL_TECLADO_INICIAL
+*******************************************************************************
+16/04/2018 05:02:14 p.m.
+frm_Principal.cambiaPantallas(),  Termina OK
+*******************************************************************************
+16/04/2018 05:02:30 p.m.
+frm_Principal.CMD_Aceptar_Click(), Inicia ...
+*******************************************************************************
+16/04/2018 05:02:30 p.m.
+frm_Principal.CMD_Aceptar_Click(), Inicia Proceso para CEDULA : 80755565
+*******************************************************************************
+16/04/2018 05:02:30 p.m.
+frm_Principal.CMD_Aceptar_Click(), Validando aDIRECTOR (CPVMP-515:4114)
+*******************************************************************************
+16/04/2018 05:02:30 p.m.
+frm_Principal.CMD_Aceptar_Click(),  aDIRECTOR OK ...
+*******************************************************************************
+16/04/2018 05:02:30 p.m.
+frm_Principal.consultaCedulaEnGA2(),  Ejecutando SP: SP_010_LEE_AFILIADO_GA2 para cc: 80755565
+*******************************************************************************
+16/04/2018 05:02:30 p.m.
+frm_Principal.consultaCedulaEnGA2(),  rdr OK ...
+*******************************************************************************
+16/04/2018 05:02:30 p.m.
+frm_Principal.CMD_Aceptar_Click(), Se obtuvieron resultados de SP: SP_010_LEE_AFILIADO_GA2 para cc: 80755565
+*******************************************************************************
+16/04/2018 05:02:30 p.m.
+frm_Principal.CMD_Aceptar_Click(),  Iniciando THREAD para : 80755565
+*******************************************************************************
+16/04/2018 05:02:30 p.m.
+frm_Principal.cambiaPantallas(),  Inicia ...
+*******************************************************************************
+16/04/2018 05:02:30 p.m.
+frm_Principal.cambiaPantallas(),  PANEL TURNOS  
+*******************************************************************************
+16/04/2018 05:02:30 p.m.
+frm_Principal.cambiaPantallas(),  Termina OK
+*******************************************************************************
+16/04/2018 05:02:30 p.m.
+frm_Principal.CMD_Aceptar_Click(), Termina OK
+*******************************************************************************
+16/04/2018 05:02:35 p.m.
+frm_Principal.LimpiaPantallas(), Inicia ...
+*******************************************************************************
+16/04/2018 05:02:35 p.m.
+frm_Principal.StopTimer(), Inicio
+*******************************************************************************
+16/04/2018 05:02:35 p.m.
+frm_Principal.StopTimer(), Termina
+*******************************************************************************
+16/04/2018 05:02:35 p.m.
+frm_Principal.StopTiemrHuella(),  Iniciando ...
+*******************************************************************************
+16/04/2018 05:02:35 p.m.
+frm_Principal.detieneEscaner(), Inicia
+*******************************************************************************
+16/04/2018 05:02:35 p.m.
+frm_Principal.VuelveInicio(), Inicia ...
+*******************************************************************************
+16/04/2018 05:02:35 p.m.
+frm_Principal.VuelveInicio(), Modo FULL detectado ..
+*******************************************************************************
+16/04/2018 05:02:35 p.m.
+frm_Principal.VuelveInicio(), TERMINA OK : 
+*******************************************************************************
+16/04/2018 05:02:35 p.m.
+frm_Principal.LimpiaPantallas(), Modo FULL detectado ..
+*******************************************************************************
+16/04/2018 05:02:35 p.m.
+frm_Principal.LimpiaPantallas(), TERMINA OK : C?dula...
+*******************************************************************************
+16/04/2018 05:21:38 p.m.
+frm_Principal.CMD_Aceptar_Click(), Inicia ...
+*******************************************************************************
+16/04/2018 05:21:38 p.m.
+frm_Principal.CMD_Aceptar_Click(), Inicia Proceso para CEDULA : 80755565
+*******************************************************************************
+16/04/2018 05:21:38 p.m.
+frm_Principal.CMD_Aceptar_Click(), Validando aDIRECTOR (CPVMP-515:4114)
+*******************************************************************************
+16/04/2018 05:21:38 p.m.
+frm_Principal.CMD_Aceptar_Click(),  aDIRECTOR OK ...
+*******************************************************************************
+16/04/2018 05:21:38 p.m.
+frm_Principal.consultaCedulaEnGA2(),  Ejecutando SP: SP_010_LEE_AFILIADO_GA2 para cc: 80755565
+*******************************************************************************
+16/04/2018 05:21:41 p.m.
+frm_Principal.consultaCedulaEnGA2(),  rdr OK ...
+*******************************************************************************
+16/04/2018 05:21:41 p.m.
+frm_Principal.CMD_Aceptar_Click(), Se obtuvieron resultados de SP: SP_010_LEE_AFILIADO_GA2 para cc: 80755565
+*******************************************************************************
+16/04/2018 05:21:41 p.m.
+frm_Principal.CMD_Aceptar_Click(),  Iniciando THREAD para : 80755565
+*******************************************************************************
+16/04/2018 05:21:41 p.m.
+frm_Principal.ActivaEscaner(),  Cargando dispositivo de Huella ...
+*******************************************************************************
+16/04/2018 05:21:41 p.m.
+frm_Principal.ActivaEscaner(),  Licencias de Huella Ok
+*******************************************************************************
+16/04/2018 05:21:41 p.m.
+frm_Principal.ActivaEscaner(),  Estado del Huellero OK 
+*******************************************************************************
+16/04/2018 05:21:42 p.m.
+frm_Principal.cambiaPantallas(),  Inicia ...
+*******************************************************************************
+16/04/2018 05:21:42 p.m.
+frm_Principal.cambiaPantallas(),  PANEL_CAPTURA_HUELLA
+*******************************************************************************
+16/04/2018 05:21:42 p.m.
+frm_Principal.StartTiemrHuella(),  Iniciando ...
+*******************************************************************************
+16/04/2018 05:21:42 p.m.
+frm_Principal.StartTimer(),  Iniciando ...
+*******************************************************************************
+16/04/2018 05:21:42 p.m.
+frm_Principal.StartTimer(), Termina
+*******************************************************************************
+16/04/2018 05:21:42 p.m.
+frm_Principal.cambiaPantallas(),  Termina OK
+*******************************************************************************
+16/04/2018 05:21:42 p.m.
+frm_Principal.CMD_Aceptar_Click(),  Iniciando THREAD para : 80755565
+*******************************************************************************
+16/04/2018 05:21:42 p.m.
+frm_Principal.CMD_Aceptar_Click(), Termina OK
+*******************************************************************************
+16/04/2018 05:21:45 p.m.
+frm_Principal.dev_avisarTermine(), Inicia ..
+*******************************************************************************
+16/04/2018 05:21:45 p.m.
+frm_Principal.dev_avisarTermine(), Termina ..
+*******************************************************************************
+16/04/2018 05:21:45 p.m.
+frm_Principal.haceTodo(), Inicia ... : 79900030 :: 1
+*******************************************************************************
+16/04/2018 05:21:45 p.m.
+frm_Principal.haceTodo(), Huella Capturada OK : 79900030
+*******************************************************************************
+16/04/2018 05:21:45 p.m.
+frm_Principal.dev_ListoGrabar(), Imagen y Template OK : 79900030
+*******************************************************************************
+16/04/2018 05:21:47 p.m.
+frm_Principal.dev_ListoGrabar(), Respuesta de validacion en SERVIDOR : 79900030 :: Respta1
+*******************************************************************************
+16/04/2018 05:21:54 p.m.
+No se encontro registro biometrico para cedula 79900030
+*******************************************************************************
+16/04/2018 05:22:15 p.m.
+El afiliado con n?mero de documento: 80755565. Tiene inconvenientes con su biometr?a. Se asignar? turno B.
+*******************************************************************************
+16/04/2018 05:22:15 p.m.
+frm_Principal.StopTimer(), Inicio
+*******************************************************************************
+16/04/2018 05:22:15 p.m.
+frm_Principal.StopTimer(), Termina
+*******************************************************************************
+16/04/2018 05:22:15 p.m.
+frm_Principal.StopTiemrHuella(),  Iniciando ...
+*******************************************************************************
+16/04/2018 05:22:15 p.m.
+frm_Principal.detieneEscaner(), Inicia
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.detieneEscaner(), Cancelando Escaner ... 
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.detieneEscaner(), Deteniendo Escaner ... 
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.detieneEscaner(), Escaner detenido OK
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.VuelveInicio(), Inicia ...
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.VuelveInicio(), Modo FULL detectado ..
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.VuelveInicio(), TERMINA OK : 
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.StopTimer(), Inicio
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.StopTimer(), Termina
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.StopTiemrHuella(),  Iniciando ...
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.detieneEscaner(), Inicia
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.VuelveInicio(), Inicia ...
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.VuelveInicio(), Saliendo, ejecucion no permitida ejecutaFuncionArreglaPantalla = False
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.VuelveInicio(), Modo FULL detectado ..
+*******************************************************************************
+16/04/2018 05:30:07 p.m.
+frm_Principal.VuelveInicio(), TERMINA OK : 

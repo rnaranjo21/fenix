@@ -1,0 +1,16 @@
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\x64\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\x64\Debug\_C_ProgRes.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\x64\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\x64\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\x64\Debug\MySql.Data.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\x64\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\x64\Debug\Npgsql.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\bin\x64\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\x64\Debug\_C_ProgRes.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\x64\Debug\Fenix.FrmDetalleImagen.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\x64\Debug\_C_ProgRes.FrmMensajeError.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\x64\Debug\_C_ProgRes.FrmImgZoom.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\x64\Debug\YLScsImage.ImagePanel.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\x64\Debug\_C_ProgRes.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\x64\Debug\_C_ProgRes.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\_C_ProgRes\_C_ProgRes\_C_ProgRes\obj\x64\Debug\_C_ProgRes.pdb

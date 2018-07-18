@@ -1,0 +1,13 @@
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Release\_C_Devices_N_4_3.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Release\_C_Devices_N_4_3.pdb
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Release\_C_ProgRes.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Release\Neurotec.SmartCards.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Release\Mono.Security.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Release\NBToolsNet.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Release\itextsharp.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Release\Ionic.Zip.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Release\_C_ProgRes.pdb
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\bin\Release\NBToolsNet.pdb
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Release\_C_Devices_N_4_3.csprojResolveAssemblyReference.cache
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Release\_C_Devices_N_4_3.dll
+C:\VS_OnLine\_C_Devices_N_4_3\_C_Devices_N_4_3\obj\Release\_C_Devices_N_4_3.pdb

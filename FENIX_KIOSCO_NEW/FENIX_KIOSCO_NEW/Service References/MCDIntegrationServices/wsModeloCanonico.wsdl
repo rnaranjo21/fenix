@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="CustomerAccount">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="customerIdentification" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CustomerAccountResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CustomerAccountResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleMovimiento">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="customerIdentification" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="accountConcept" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="movementInitialDate" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="movementFinalDate" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="sUserQuery" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleMovimientoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalleMovimientoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBloqueos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="customerIdentification" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DetalleBloqueosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DetalleBloqueosResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReporteHaberes">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="customerIdentification" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="accountId" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="sUserQuery" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReporteHaberesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ReporteHaberesResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExtractoGeneral">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="customerIdentification" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="accountId" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="movementMonth" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="movementYear" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="sUserQuery" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExtractoGeneralResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ExtractoGeneralResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeclaracionRenta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="customerIdentification" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="accountId" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="movementMonth" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="movementYear" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="sUserQuery" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeclaracionRentaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DeclaracionRentaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GenerarReporte">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sReporte" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="customerIdentification" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="accountId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GenerarReporteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GenerarReporteResult" type="tns:ServiceResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ServiceResponse">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Report" type="s:base64Binary" />
+          <s:element minOccurs="1" maxOccurs="1" name="Status" type="s:boolean" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="DataTable" nillable="true">
+        <s:complexType>
+          <s:sequence>
+            <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+            <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DataSet" nillable="true">
+        <s:complexType>
+          <s:sequence>
+            <s:element ref="s:schema" />
+            <s:any />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ServiceResponse" nillable="true" type="tns:ServiceResponse" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CustomerAccountSoapIn">
+    <wsdl:part name="parameters" element="tns:CustomerAccount" />
+  </wsdl:message>
+  <wsdl:message name="CustomerAccountSoapOut">
+    <wsdl:part name="parameters" element="tns:CustomerAccountResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalleMovimientoSoapIn">
+    <wsdl:part name="parameters" element="tns:DetalleMovimiento" />
+  </wsdl:message>
+  <wsdl:message name="DetalleMovimientoSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalleMovimientoResponse" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBloqueosSoapIn">
+    <wsdl:part name="parameters" element="tns:DetalleBloqueos" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBloqueosSoapOut">
+    <wsdl:part name="parameters" element="tns:DetalleBloqueosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReporteHaberesSoapIn">
+    <wsdl:part name="parameters" element="tns:ReporteHaberes" />
+  </wsdl:message>
+  <wsdl:message name="ReporteHaberesSoapOut">
+    <wsdl:part name="parameters" element="tns:ReporteHaberesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExtractoGeneralSoapIn">
+    <wsdl:part name="parameters" element="tns:ExtractoGeneral" />
+  </wsdl:message>
+  <wsdl:message name="ExtractoGeneralSoapOut">
+    <wsdl:part name="parameters" element="tns:ExtractoGeneralResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeclaracionRentaSoapIn">
+    <wsdl:part name="parameters" element="tns:DeclaracionRenta" />
+  </wsdl:message>
+  <wsdl:message name="DeclaracionRentaSoapOut">
+    <wsdl:part name="parameters" element="tns:DeclaracionRentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="GenerarReporteSoapIn">
+    <wsdl:part name="parameters" element="tns:GenerarReporte" />
+  </wsdl:message>
+  <wsdl:message name="GenerarReporteSoapOut">
+    <wsdl:part name="parameters" element="tns:GenerarReporteResponse" />
+  </wsdl:message>
+  <wsdl:message name="CustomerAccountHttpGetIn">
+    <wsdl:part name="customerIdentification" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="CustomerAccountHttpGetOut">
+    <wsdl:part name="Body" element="tns:DataTable" />
+  </wsdl:message>
+  <wsdl:message name="DetalleMovimientoHttpGetIn">
+    <wsdl:part name="customerIdentification" type="s:string" />
+    <wsdl:part name="accountConcept" type="s:string" />
+    <wsdl:part name="movementInitialDate" type="s:string" />
+    <wsdl:part name="movementFinalDate" type="s:string" />
+    <wsdl:part name="sUserQuery" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="DetalleMovimientoHttpGetOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBloqueosHttpGetIn">
+    <wsdl:part name="customerIdentification" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBloqueosHttpGetOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="ReporteHaberesHttpGetIn">
+    <wsdl:part name="customerIdentification" type="s:string" />
+    <wsdl:part name="accountId" type="s:string" />
+    <wsdl:part name="sUserQuery" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ReporteHaberesHttpGetOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="ExtractoGeneralHttpGetIn">
+    <wsdl:part name="customerIdentification" type="s:string" />
+    <wsdl:part name="accountId" type="s:string" />
+    <wsdl:part name="movementMonth" type="s:string" />
+    <wsdl:part name="movementYear" type="s:string" />
+    <wsdl:part name="sUserQuery" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ExtractoGeneralHttpGetOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="DeclaracionRentaHttpGetIn">
+    <wsdl:part name="customerIdentification" type="s:string" />
+    <wsdl:part name="accountId" type="s:string" />
+    <wsdl:part name="movementMonth" type="s:string" />
+    <wsdl:part name="movementYear" type="s:string" />
+    <wsdl:part name="sUserQuery" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="DeclaracionRentaHttpGetOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="GenerarReporteHttpGetIn">
+    <wsdl:part name="sReporte" type="s:string" />
+    <wsdl:part name="customerIdentification" type="s:string" />
+    <wsdl:part name="accountId" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GenerarReporteHttpGetOut">
+    <wsdl:part name="Body" element="tns:ServiceResponse" />
+  </wsdl:message>
+  <wsdl:message name="CustomerAccountHttpPostIn">
+    <wsdl:part name="customerIdentification" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="CustomerAccountHttpPostOut">
+    <wsdl:part name="Body" element="tns:DataTable" />
+  </wsdl:message>
+  <wsdl:message name="DetalleMovimientoHttpPostIn">
+    <wsdl:part name="customerIdentification" type="s:string" />
+    <wsdl:part name="accountConcept" type="s:string" />
+    <wsdl:part name="movementInitialDate" type="s:string" />
+    <wsdl:part name="movementFinalDate" type="s:string" />
+    <wsdl:part name="sUserQuery" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="DetalleMovimientoHttpPostOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBloqueosHttpPostIn">
+    <wsdl:part name="customerIdentification" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="DetalleBloqueosHttpPostOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="ReporteHaberesHttpPostIn">
+    <wsdl:part name="customerIdentification" type="s:string" />
+    <wsdl:part name="accountId" type="s:string" />
+    <wsdl:part name="sUserQuery" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ReporteHaberesHttpPostOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="ExtractoGeneralHttpPostIn">
+    <wsdl:part name="customerIdentification" type="s:string" />
+    <wsdl:part name="accountId" type="s:string" />
+    <wsdl:part name="movementMonth" type="s:string" />
+    <wsdl:part name="movementYear" type="s:string" />
+    <wsdl:part name="sUserQuery" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ExtractoGeneralHttpPostOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="DeclaracionRentaHttpPostIn">
+    <wsdl:part name="customerIdentification" type="s:string" />
+    <wsdl:part name="accountId" type="s:string" />
+    <wsdl:part name="movementMonth" type="s:string" />
+    <wsdl:part name="movementYear" type="s:string" />
+    <wsdl:part name="sUserQuery" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="DeclaracionRentaHttpPostOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="GenerarReporteHttpPostIn">
+    <wsdl:part name="sReporte" type="s:string" />
+    <wsdl:part name="customerIdentification" type="s:string" />
+    <wsdl:part name="accountId" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GenerarReporteHttpPostOut">
+    <wsdl:part name="Body" element="tns:ServiceResponse" />
+  </wsdl:message>
+  <wsdl:portType name="wsModeloCanonicoDatosSoap">
+    <wsdl:operation name="CustomerAccount">
+      <wsdl:input message="tns:CustomerAccountSoapIn" />
+      <wsdl:output message="tns:CustomerAccountSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleMovimiento">
+      <wsdl:input message="tns:DetalleMovimientoSoapIn" />
+      <wsdl:output message="tns:DetalleMovimientoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBloqueos">
+      <wsdl:input message="tns:DetalleBloqueosSoapIn" />
+      <wsdl:output message="tns:DetalleBloqueosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReporteHaberes">
+      <wsdl:input message="tns:ReporteHaberesSoapIn" />
+      <wsdl:output message="tns:ReporteHaberesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExtractoGeneral">
+      <wsdl:input message="tns:ExtractoGeneralSoapIn" />
+      <wsdl:output message="tns:ExtractoGeneralSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeclaracionRenta">
+      <wsdl:input message="tns:DeclaracionRentaSoapIn" />
+      <wsdl:output message="tns:DeclaracionRentaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GenerarReporte">
+      <wsdl:input message="tns:GenerarReporteSoapIn" />
+      <wsdl:output message="tns:GenerarReporteSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="wsModeloCanonicoDatosHttpGet">
+    <wsdl:operation name="CustomerAccount">
+      <wsdl:input message="tns:CustomerAccountHttpGetIn" />
+      <wsdl:output message="tns:CustomerAccountHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleMovimiento">
+      <wsdl:input message="tns:DetalleMovimientoHttpGetIn" />
+      <wsdl:output message="tns:DetalleMovimientoHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBloqueos">
+      <wsdl:input message="tns:DetalleBloqueosHttpGetIn" />
+      <wsdl:output message="tns:DetalleBloqueosHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReporteHaberes">
+      <wsdl:input message="tns:ReporteHaberesHttpGetIn" />
+      <wsdl:output message="tns:ReporteHaberesHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExtractoGeneral">
+      <wsdl:input message="tns:ExtractoGeneralHttpGetIn" />
+      <wsdl:output message="tns:ExtractoGeneralHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeclaracionRenta">
+      <wsdl:input message="tns:DeclaracionRentaHttpGetIn" />
+      <wsdl:output message="tns:DeclaracionRentaHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GenerarReporte">
+      <wsdl:input message="tns:GenerarReporteHttpGetIn" />
+      <wsdl:output message="tns:GenerarReporteHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="wsModeloCanonicoDatosHttpPost">
+    <wsdl:operation name="CustomerAccount">
+      <wsdl:input message="tns:CustomerAccountHttpPostIn" />
+      <wsdl:output message="tns:CustomerAccountHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleMovimiento">
+      <wsdl:input message="tns:DetalleMovimientoHttpPostIn" />
+      <wsdl:output message="tns:DetalleMovimientoHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBloqueos">
+      <wsdl:input message="tns:DetalleBloqueosHttpPostIn" />
+      <wsdl:output message="tns:DetalleBloqueosHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReporteHaberes">
+      <wsdl:input message="tns:ReporteHaberesHttpPostIn" />
+      <wsdl:output message="tns:ReporteHaberesHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExtractoGeneral">
+      <wsdl:input message="tns:ExtractoGeneralHttpPostIn" />
+      <wsdl:output message="tns:ExtractoGeneralHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeclaracionRenta">
+      <wsdl:input message="tns:DeclaracionRentaHttpPostIn" />
+      <wsdl:output message="tns:DeclaracionRentaHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GenerarReporte">
+      <wsdl:input message="tns:GenerarReporteHttpPostIn" />
+      <wsdl:output message="tns:GenerarReporteHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="wsModeloCanonicoDatosSoap" type="tns:wsModeloCanonicoDatosSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CustomerAccount">
+      <soap:operation soapAction="http://tempuri.org/CustomerAccount" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleMovimiento">
+      <soap:operation soapAction="http://tempuri.org/DetalleMovimiento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBloqueos">
+      <soap:operation soapAction="http://tempuri.org/DetalleBloqueos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReporteHaberes">
+      <soap:operation soapAction="http://tempuri.org/ReporteHaberes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExtractoGeneral">
+      <soap:operation soapAction="http://tempuri.org/ExtractoGeneral" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeclaracionRenta">
+      <soap:operation soapAction="http://tempuri.org/DeclaracionRenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GenerarReporte">
+      <soap:operation soapAction="http://tempuri.org/GenerarReporte" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsModeloCanonicoDatosSoap12" type="tns:wsModeloCanonicoDatosSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CustomerAccount">
+      <soap12:operation soapAction="http://tempuri.org/CustomerAccount" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleMovimiento">
+      <soap12:operation soapAction="http://tempuri.org/DetalleMovimiento" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBloqueos">
+      <soap12:operation soapAction="http://tempuri.org/DetalleBloqueos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReporteHaberes">
+      <soap12:operation soapAction="http://tempuri.org/ReporteHaberes" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExtractoGeneral">
+      <soap12:operation soapAction="http://tempuri.org/ExtractoGeneral" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeclaracionRenta">
+      <soap12:operation soapAction="http://tempuri.org/DeclaracionRenta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GenerarReporte">
+      <soap12:operation soapAction="http://tempuri.org/GenerarReporte" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsModeloCanonicoDatosHttpGet" type="tns:wsModeloCanonicoDatosHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="CustomerAccount">
+      <http:operation location="/CustomerAccount" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleMovimiento">
+      <http:operation location="/DetalleMovimiento" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBloqueos">
+      <http:operation location="/DetalleBloqueos" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReporteHaberes">
+      <http:operation location="/ReporteHaberes" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExtractoGeneral">
+      <http:operation location="/ExtractoGeneral" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeclaracionRenta">
+      <http:operation location="/DeclaracionRenta" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GenerarReporte">
+      <http:operation location="/GenerarReporte" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsModeloCanonicoDatosHttpPost" type="tns:wsModeloCanonicoDatosHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="CustomerAccount">
+      <http:operation location="/CustomerAccount" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleMovimiento">
+      <http:operation location="/DetalleMovimiento" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DetalleBloqueos">
+      <http:operation location="/DetalleBloqueos" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReporteHaberes">
+      <http:operation location="/ReporteHaberes" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExtractoGeneral">
+      <http:operation location="/ExtractoGeneral" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeclaracionRenta">
+      <http:operation location="/DeclaracionRenta" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GenerarReporte">
+      <http:operation location="/GenerarReporte" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="wsModeloCanonicoDatos">
+    <wsdl:port name="wsModeloCanonicoDatosSoap" binding="tns:wsModeloCanonicoDatosSoap">
+      <soap:address location="http://cpvmp-92x/MCDIntegrationServices/wsModeloCanonico.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsModeloCanonicoDatosSoap12" binding="tns:wsModeloCanonicoDatosSoap12">
+      <soap12:address location="http://cpvmp-92x/MCDIntegrationServices/wsModeloCanonico.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsModeloCanonicoDatosHttpGet" binding="tns:wsModeloCanonicoDatosHttpGet">
+      <http:address location="http://cpvmp-92x/MCDIntegrationServices/wsModeloCanonico.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsModeloCanonicoDatosHttpPost" binding="tns:wsModeloCanonicoDatosHttpPost">
+      <http:address location="http://cpvmp-92x/MCDIntegrationServices/wsModeloCanonico.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,103 @@
+C:\VS_OnLine\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.dll
+C:\VS_OnLine\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.pdb
+C:\VS_OnLine\NBToolsNet\NBToolsNet\bin\Debug\Mono.Security.dll
+C:\VS_OnLine\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csprojResolveAssemblyReference.cache
+C:\VS_OnLine\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmCambiarClave.resources
+C:\VS_OnLine\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmLogin.resources
+C:\VS_OnLine\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csproj.GenerateResource.Cache
+C:\VS_OnLine\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.dll
+C:\VS_OnLine\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.pdb
+D:\SubVersion\Fenix30\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Fenix30\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Fenix30\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csprojResolveAssemblyReference.cache
+D:\SubVersion\Fenix30\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmCambiarClave.resources
+D:\SubVersion\Fenix30\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmLogin.resources
+D:\SubVersion\Fenix30\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csproj.GenerateResource.Cache
+D:\SubVersion\Fenix30\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.dll
+D:\SubVersion\Fenix30\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F) - Infoturno 05122016 - copia\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F) - Infoturno 05122016 - copia\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F) - Infoturno 05122016 - copia\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F) - Infoturno 05122016 - copia\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmCambiarClave.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F) - Infoturno 05122016 - copia\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmLogin.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F) - Infoturno 05122016 - copia\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F) - Infoturno 05122016 - copia\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F) - Infoturno 05122016 - copia\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016(Entregado)\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016(Entregado)\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016(Entregado)\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016(Entregado)\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmCambiarClave.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016(Entregado)\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmLogin.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016(Entregado)\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016(Entregado)\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016(Entregado)\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmCambiarClave.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmLogin.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.6(F_Infot)12122016\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmCambiarClave.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmLogin.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmCambiarClave.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmLogin.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.0.8 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmCambiarClave.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmLogin.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.0 - Funcional Nuevo SDK\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmCambiarClave.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmLogin.resources
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 2.1.1.1 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmCambiarClave.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmLogin.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmCambiarClave.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmLogin.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmCambiarClave.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmLogin.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+ cambioturnos+Cambio DIseño Atencion al Afiliado\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\NBToolsNet\NBToolsNet\bin\Debug\NBToolsNet.pdb
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csprojResolveAssemblyReference.cache
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmCambiarClave.resources
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.FrmLogin.resources
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.csproj.GenerateResource.Cache
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.dll
+D:\SubVersion\Codigo\1.Desarrollo\2.Windows\Fenix_Kiosco_3.0.0.0\NBToolsNet\NBToolsNet\obj\Debug\NBToolsNet.pdb

@@ -1,0 +1,12 @@
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\bin\x64\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\bin\x64\Debug\NBToolsNet.pdb
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\bin\x64\Debug\Ionic.Zip.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\bin\x64\Debug\itextsharp.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\bin\x64\Debug\MySql.Data.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\bin\x64\Debug\Npgsql.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\obj\x64\Debug\NBToolsNet.csprojResolveAssemblyReference.cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\obj\x64\Debug\NBToolsNet.FrmCambiarClave.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\obj\x64\Debug\NBToolsNet.FrmLogin.resources
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\obj\x64\Debug\NBToolsNet.csproj.GenerateResource.Cache
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\obj\x64\Debug\NBToolsNet.dll
+D:\SubVersion\kiosco\KIOSCO 3.0.0.0 - NuevoSDK+Diseño + cambioturnos\NBToolsNet\NBToolsNet\obj\x64\Debug\NBToolsNet.pdb

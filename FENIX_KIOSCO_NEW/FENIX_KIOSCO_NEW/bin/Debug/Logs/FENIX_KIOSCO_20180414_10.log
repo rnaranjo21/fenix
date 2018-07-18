@@ -1,0 +1,279 @@
+*******************************************************************************
+14/04/2018 10:26:51 a.m.
+Inicializar(), Inciando KIOSCO Verion : 3.0.0.0
+*******************************************************************************
+14/04/2018 10:26:51 a.m.
+frm_Principal.Inicializar(), Buscando Archivo de configuracion
+*******************************************************************************
+14/04/2018 10:26:51 a.m.
+frm_Principal.Inicializar(), inicia Lectura Informacion Archivo de Configuracion
+*******************************************************************************
+14/04/2018 10:26:51 a.m.
+frm_Principal.Inicializar(), Conectando webService DigTurno
+*******************************************************************************
+14/04/2018 10:26:51 a.m.
+Iniciando Test de conexion a servidores modo (FULL).....
+*******************************************************************************
+14/04/2018 10:27:12 a.m. USUARIO: ruben.naranjo
+COMPONENTE: NBToolsNet.dll
+CLASE O MODULO: CLNBTN_CliPro METODO: Connection_OK
+
+DESCRIPCION DEL ERROR: Exception: Se produjo un error durante el intento de conexi?n ya que la parte conectada no respondi? adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexi?n establecida ya que el host conectado no ha podido responder 172.16.2.249:4114
+*******************************************************************************
+14/04/2018 10:27:12 a.m.
+TestDigiturno : Conexion Digiturno: CORRECTO.
+*******************************************************************************
+14/04/2018 10:27:12 a.m.
+frm_Principal.Inicializar(), Ingresando en modo FULL OK 
+*******************************************************************************
+14/04/2018 10:27:14 a.m. USUARIO: ruben.naranjo
+COMPONENTE: FENIX_KIOSCO.EXE
+CLASE O MODULO: Frm_Principal METODO: Inicializar
+
+DESCRIPCION DEL ERROR: Referencia a objeto no establecida como instancia de un objeto.
+*******************************************************************************
+14/04/2018 10:29:49 a.m.
+Inicializar(), Inciando KIOSCO Verion : 3.0.0.0
+*******************************************************************************
+14/04/2018 10:29:49 a.m.
+frm_Principal.Inicializar(), Buscando Archivo de configuracion
+*******************************************************************************
+14/04/2018 10:29:49 a.m.
+frm_Principal.Inicializar(), inicia Lectura Informacion Archivo de Configuracion
+*******************************************************************************
+14/04/2018 10:29:49 a.m.
+frm_Principal.Inicializar(), Conectando webService DigTurno
+*******************************************************************************
+14/04/2018 10:29:49 a.m.
+Iniciando Test de conexion a servidores modo (FULL).....
+*******************************************************************************
+14/04/2018 10:30:10 a.m. USUARIO: ruben.naranjo
+COMPONENTE: NBToolsNet.dll
+CLASE O MODULO: CLNBTN_CliPro METODO: Connection_OK
+
+DESCRIPCION DEL ERROR: Exception: Se produjo un error durante el intento de conexi?n ya que la parte conectada no respondi? adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexi?n establecida ya que el host conectado no ha podido responder 172.16.2.249:4114
+*******************************************************************************
+14/04/2018 10:30:10 a.m.
+VerificaFenix_GA2 : Conexion Fenix (CPVMP-515): FALLIDO.
+*******************************************************************************
+14/04/2018 10:30:10 a.m.
+TestDigiturno : Conexion Digiturno: CORRECTO.
+*******************************************************************************
+14/04/2018 10:30:10 a.m.
+frm_Principal.Inicializar(), Ingresando en modo FULL OK 
+*******************************************************************************
+14/04/2018 10:30:14 a.m. USUARIO: ruben.naranjo
+COMPONENTE: FENIX_KIOSCO.EXE
+CLASE O MODULO: Frm_Principal METODO: Inicializar
+
+DESCRIPCION DEL ERROR: Referencia a objeto no establecida como instancia de un objeto.
+*******************************************************************************
+14/04/2018 10:31:55 a.m.
+Inicializar(), Inciando KIOSCO Verion : 3.0.0.0
+*******************************************************************************
+14/04/2018 10:31:55 a.m.
+frm_Principal.Inicializar(), Buscando Archivo de configuracion
+*******************************************************************************
+14/04/2018 10:31:55 a.m.
+frm_Principal.Inicializar(), inicia Lectura Informacion Archivo de Configuracion
+*******************************************************************************
+14/04/2018 10:31:55 a.m.
+frm_Principal.Inicializar(), Conectando webService DigTurno
+*******************************************************************************
+14/04/2018 10:31:55 a.m.
+Iniciando Test de conexion a servidores modo (FULL).....
+*******************************************************************************
+14/04/2018 10:31:55 a.m.
+VerificaFenix_GA2 : Conexion Fenix (CPVMP-515): CORRECTO.
+*******************************************************************************
+14/04/2018 10:31:56 a.m.
+VerificaConexionBD : Conexion a BD Fenix: CORRECTO.
+*******************************************************************************
+14/04/2018 10:31:56 a.m.
+antes de VerificaConexionGA2.if (!this.Conecta_BD_Ga2('001', st_ParamBd, ref inR_A001NUM_IDENTIFICACION))
+*******************************************************************************
+14/04/2018 10:31:56 a.m.
+antes de Conecta_BD_Ga2.SqlDataReader rdr = objL_Consultas.EjecutaSP('SP_010_LEE_AFILIADO_GA2', st_Cedula);
+*******************************************************************************
+14/04/2018 10:31:57 a.m.
+despues de Conecta_BD_Ga2.SqlDataReader rdr = objL_Consultas.EjecutaSP('SP_010_LEE_AFILIADO_GA2', st_Cedula);
+*******************************************************************************
+14/04/2018 10:31:57 a.m.
+antes de Conecta_BD_Ga2.if (rdr != null)
+*******************************************************************************
+14/04/2018 10:31:57 a.m.
+despu?s de Conecta_BD_Ga2.Conecta_BD_Ga2.if (rdr != null)
+*******************************************************************************
+14/04/2018 10:31:57 a.m.
+antes de Conecta_BD_Ga2.rdr.Close()
+*******************************************************************************
+14/04/2018 10:31:57 a.m.
+despues de Conecta_BD_Ga2.rdr.Close()
+*******************************************************************************
+14/04/2018 10:31:57 a.m.
+antes de Conecta_BD_Ga2.objL_Consultas.CierraCOnexiones();
+*******************************************************************************
+14/04/2018 10:31:57 a.m.
+despues de Conecta_BD_Ga2.objL_Consultas.CierraCOnexiones();
+*******************************************************************************
+14/04/2018 10:31:57 a.m.
+VerificaConexionGA2 : Conexion_BD_Ga2: CORRECTO.
+*******************************************************************************
+14/04/2018 10:31:57 a.m.
+TestDigiturno : Conexion Digiturno: CORRECTO.
+*******************************************************************************
+14/04/2018 10:31:57 a.m.
+frm_Principal.Inicializar(), Ingresando en modo FULL OK 
+*******************************************************************************
+14/04/2018 10:31:57 a.m.
+frm_Principal.borraDirTemporales(), Inicia
+*******************************************************************************
+14/04/2018 10:31:57 a.m.
+frm_Principal.borraDirTemporales(), Termina OK
+*******************************************************************************
+14/04/2018 10:31:57 a.m.
+Inicializar(), Terminando OK
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+Inicializar(), Inciando KIOSCO Verion : 3.0.0.0
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+frm_Principal.Inicializar(), Buscando Archivo de configuracion
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+frm_Principal.Inicializar(), inicia Lectura Informacion Archivo de Configuracion
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+frm_Principal.Inicializar(), Conectando webService DigTurno
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+Iniciando Test de conexion a servidores modo (FULL).....
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+VerificaFenix_GA2 : Conexion Fenix (CPVMP-515): CORRECTO.
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+VerificaConexionBD : Conexion a BD Fenix: CORRECTO.
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+antes de VerificaConexionGA2.if (!this.Conecta_BD_Ga2('001', st_ParamBd, ref inR_A001NUM_IDENTIFICACION))
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+antes de Conecta_BD_Ga2.SqlDataReader rdr = objL_Consultas.EjecutaSP('SP_010_LEE_AFILIADO_GA2', st_Cedula);
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+despues de Conecta_BD_Ga2.SqlDataReader rdr = objL_Consultas.EjecutaSP('SP_010_LEE_AFILIADO_GA2', st_Cedula);
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+antes de Conecta_BD_Ga2.if (rdr != null)
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+despu?s de Conecta_BD_Ga2.Conecta_BD_Ga2.if (rdr != null)
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+antes de Conecta_BD_Ga2.rdr.Close()
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+despues de Conecta_BD_Ga2.rdr.Close()
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+antes de Conecta_BD_Ga2.objL_Consultas.CierraCOnexiones();
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+despues de Conecta_BD_Ga2.objL_Consultas.CierraCOnexiones();
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+VerificaConexionGA2 : Conexion_BD_Ga2: CORRECTO.
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+TestDigiturno : Conexion Digiturno: CORRECTO.
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+frm_Principal.Inicializar(), Ingresando en modo FULL OK 
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+frm_Principal.borraDirTemporales(), Inicia
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+frm_Principal.borraDirTemporales(), Termina OK
+*******************************************************************************
+14/04/2018 10:36:35 a.m.
+Inicializar(), Terminando OK
+*******************************************************************************
+14/04/2018 10:36:58 a.m.
+frm_Principal.CMD_Aceptar_Click(), Inicia ...
+*******************************************************************************
+14/04/2018 10:36:58 a.m.
+frm_Principal.CMD_Aceptar_Click(), Inicia Proceso para CEDULA : 79345472
+*******************************************************************************
+14/04/2018 10:36:58 a.m.
+frm_Principal.CMD_Aceptar_Click(), Validando aDIRECTOR (CPVMP-515:4114)
+*******************************************************************************
+14/04/2018 10:36:58 a.m.
+frm_Principal.CMD_Aceptar_Click(),  aDIRECTOR OK ...
+*******************************************************************************
+14/04/2018 10:36:58 a.m.
+frm_Principal.consultaCedulaEnGA2(),  Ejecutando SP: SP_010_LEE_AFILIADO_GA2 para cc: 79345472
+*******************************************************************************
+14/04/2018 10:36:58 a.m.
+frm_Principal.consultaCedulaEnGA2(),  rdr OK ...
+*******************************************************************************
+14/04/2018 10:36:58 a.m.
+frm_Principal.CMD_Aceptar_Click(), Se obtuvieron resultados de SP: SP_010_LEE_AFILIADO_GA2 para cc: 79345472
+*******************************************************************************
+14/04/2018 10:36:58 a.m.
+frm_Principal.CMD_Aceptar_Click(),  Iniciando THREAD para : 79345472
+*******************************************************************************
+14/04/2018 10:36:58 a.m.
+frm_Principal.ActivaEscaner(),  Cargando dispositivo de Huella ...
+*******************************************************************************
+14/04/2018 10:36:58 a.m.
+frm_Principal.ActivaEscaner(),  Licencias de Huella Ok
+*******************************************************************************
+14/04/2018 10:36:58 a.m.
+frm_Principal.ActivaEscaner(),  Estado del Huellero OK 
+*******************************************************************************
+14/04/2018 10:36:59 a.m.
+frm_Principal.cambiaPantallas(),  Inicia ...
+*******************************************************************************
+14/04/2018 10:36:59 a.m.
+frm_Principal.cambiaPantallas(),  PANEL_CAPTURA_HUELLA
+*******************************************************************************
+14/04/2018 10:36:59 a.m.
+frm_Principal.StartTiemrHuella(),  Iniciando ...
+*******************************************************************************
+14/04/2018 10:36:59 a.m.
+frm_Principal.StartTimer(),  Iniciando ...
+*******************************************************************************
+14/04/2018 10:36:59 a.m.
+frm_Principal.StartTimer(), Termina
+*******************************************************************************
+14/04/2018 10:36:59 a.m.
+frm_Principal.cambiaPantallas(),  Termina OK
+*******************************************************************************
+14/04/2018 10:36:59 a.m.
+frm_Principal.CMD_Aceptar_Click(),  Iniciando THREAD para : 79345472
+*******************************************************************************
+14/04/2018 10:36:59 a.m.
+frm_Principal.CMD_Aceptar_Click(), Termina OK
+*******************************************************************************
+14/04/2018 10:37:59 a.m.
+frm_Principal.StopTimer(), Inicio
+*******************************************************************************
+14/04/2018 10:37:59 a.m.
+frm_Principal.StopTimer(), Termina
+*******************************************************************************
+14/04/2018 10:37:59 a.m.
+frm_Principal.StopTiemrHuella(),  Iniciando ...
+*******************************************************************************
+14/04/2018 10:37:59 a.m.
+frm_Principal.StopTimer(), Inicio
+*******************************************************************************
+14/04/2018 10:37:59 a.m.
+frm_Principal.StopTimer(), Termina
+*******************************************************************************
+14/04/2018 10:37:59 a.m.
+frm_Principal.StopTiemrHuella(),  Iniciando ...
+*******************************************************************************
+14/04/2018 10:37:59 a.m.
+frm_Principal.detieneEscaner(), Inicia

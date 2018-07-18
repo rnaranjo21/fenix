@@ -1,0 +1,12 @@
+C:\VS_OnLine\NBToolsNet\NBToolsNet\bin\Release\NBToolsNet.dll
+C:\VS_OnLine\NBToolsNet\NBToolsNet\bin\Release\NBToolsNet.pdb
+C:\VS_OnLine\NBToolsNet\NBToolsNet\bin\Release\Ionic.Zip.dll
+C:\VS_OnLine\NBToolsNet\NBToolsNet\bin\Release\itextsharp.dll
+C:\VS_OnLine\NBToolsNet\NBToolsNet\bin\Release\MySql.Data.dll
+C:\VS_OnLine\NBToolsNet\NBToolsNet\bin\Release\Npgsql.dll
+C:\VS_OnLine\NBToolsNet\NBToolsNet\bin\Release\Mono.Security.dll
+C:\VS_OnLine\NBToolsNet\NBToolsNet\obj\Release\NBToolsNet.FrmCambiarClave.resources
+C:\VS_OnLine\NBToolsNet\NBToolsNet\obj\Release\NBToolsNet.FrmLogin.resources
+C:\VS_OnLine\NBToolsNet\NBToolsNet\obj\Release\NBToolsNet.csproj.GenerateResource.Cache
+C:\VS_OnLine\NBToolsNet\NBToolsNet\obj\Release\NBToolsNet.dll
+C:\VS_OnLine\NBToolsNet\NBToolsNet\obj\Release\NBToolsNet.pdb
